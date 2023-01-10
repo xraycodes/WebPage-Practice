@@ -1,0 +1,111 @@
+body{
+    margin: 0px;
+}
+
+button {
+    margin-left: 20px;
+    margin-top: -50px;
+}
+
+header {
+    background-color: rgb(54, 79, 117);
+}
+
+
+.font {
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+h2{
+    margin-bottom: -10px;
+    margin-left: 20px;
+}
+
+p{
+    margin: 20px;
+}
+
+.thor{
+    text-align: center;
+    padding: 10px
+}
+.testimonial {
+    text-align: center;
+    width: 170px;
+    margin: auto;
+    font-size: 20px;
+}
+
+.third-section{
+    background-color: rgb(204, 198, 198);
+    height: 400px;
+    padding:100px;
+    box-sizing: border-box; 
+}
+
+.fourth-section{
+    height: 400px;
+}
+
+ul{
+    list-style: none;
+}
+
+.bluebox {
+    display: block;
+    width: 100px;
+    
+}
+
+.header-left-paragraph {
+    width:400px;
+    background-color: ;
+    margin: 20px;
+    margin-top: 40px;
+    margin-left: 500px;
+    display: inline-block
+}
+.header-container{
+    display: flex;
+    
+}
+.left-container{
+    display: flex;
+    margin: px;
+    margin: 20px;
+
+}
+
+.placeholder-image {
+    display: inline-block;;
+    width: 20px;
+    
+    
+}
+
+.random-info {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.right-container {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    justify-content: flex-end;
+    
+}
+
+.section-boxes {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex: 1; 
+    height: 400px;
+}
+
+.smaller-box {
+    background-color: rgb(77, 155, 219);
+    width: 60%;
+    margin: 50px auto;
+}
